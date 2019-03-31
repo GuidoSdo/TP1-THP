@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="324ca4e7-3771-4b89-ac18-05159c6a6fe7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio11.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio12.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio9.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/ejercicios/Ejercicio8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrabajoPracticoN1SalcedoGuido/test/test1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio1.java" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio1.java" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio2.java" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio2.java" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio7.java" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio7.java" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio8.java" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio8.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/test1.java" afterPath="" />
-    </list>
+    <list default="true" id="324ca4e7-3771-4b89-ac18-05159c6a6fe7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
