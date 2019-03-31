@@ -7,9 +7,8 @@ public class Ejercicio2 {
 		int num2 = 5;
 		System.out.println("valor num1: " + num1);
 		System.out.println("valor num2: " + num2);
-		System.out.println("Suma, valor: " + (num1 + num2));
-
-		System.out.println("Multiplicacion, valor: " + (num1 * num2));
+		System.out.println(num1 + " + " + num2  + " = " + (num1 + num2));
+		System.out.println(num1 + " * " + num2 + " = " + (num1 * num2));
 
 	}
 

@@ -6,6 +6,7 @@ public class Ejercicio1 {
 
 		int num1 = 0;
 
+		System.out.println("Valor inicial de num1: " + num1);
 		num1++;
 
 		System.out.println("El valor de num1 incrementado su valor en 1 es: " + num1);

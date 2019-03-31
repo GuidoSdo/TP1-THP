@@ -9,7 +9,7 @@ public class Ejercicio7 {
         int CANTIDAD_MANZANAS_X_CAJON = 8;
         int cantidadManzanas;
         int cajones;
-        boolean mientras = true;
+        String finalCajones = "cajones";
 
         System.out.println("Ingrese la cantidad de manzanas");
         Scanner scan = new Scanner(System.in);
@@ -17,20 +17,17 @@ public class Ejercicio7 {
         scan.close();
 
 
-        if ((cantidadManzanas%CANTIDAD_MANZANAS_X_CAJON) == 0) {
+        if ((cantidadManzanas % CANTIDAD_MANZANAS_X_CAJON) == 0) {
             cajones = cantidadManzanas / CANTIDAD_MANZANAS_X_CAJON;
-            System.out.println("Se necesitan de " + cajones + " cajones");
-
         } else {
-            if (cantidadManzanas == CANTIDAD_MANZANAS_X_CAJON) {
-                cajones = 1;
-                System.out.println("Se necesita de " + cajones + " cajon");
-            } else {
-                cajones = cantidadManzanas / CANTIDAD_MANZANAS_X_CAJON;
-                cajones++;
-                System.out.println("Se necesitan de " + cajones + " cajones");
-            }
+            cajones = cantidadManzanas / CANTIDAD_MANZANAS_X_CAJON;
+            cajones++;
         }
+
+        if (cajones == 1) {
+            finalCajones = "cajon";
+        }
+        System.out.println("Se necesita de " + cajones + " " + finalCajones);
 
     }
 
