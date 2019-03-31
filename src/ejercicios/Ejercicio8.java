@@ -6,27 +6,36 @@ public class Ejercicio8 {
 
     public static void main(String[] args) {
 
-        String persona1;
-        String persona2;
-        String persona3;
+        String persona1 = "";
+        int aportePersona1 = 0;
+        int capitalTotal = 0;
+        int aux1;
+        int aportantes = 0;
+        int CANTIDAD_MAX_APORTANTES = 3;
 
-        int aportePersona1;
-        int aportePersona2;
-        int aportePersona3;
 
-
-        System.out.println("Ingrese nombre de la persona1");
         Scanner scan = new Scanner(System.in);
-        persona1 = scan.next();
-        System.out.println("Ingrese el capital aportado");
-        aportePersona1 = scan.nextInt();
-        System.out.println("Ingrese nombre de la persona2");
-        persona2 = scan.next();
-        System.out.println("Ingrese el capital aportado");
-        aportePersona2 = scan.nextInt();
 
+        while (aportantes < CANTIDAD_MAX_APORTANTES) {
+            System.out.println("Ingrese nombre del aportante");
+            persona1 = scan.next();
+            System.out.println("Ingrese el capital aportado");
+            aportePersona1 = scan.nextInt();
+
+            capitalTotal = +aportePersona1;
+            aportantes++;
+
+        }
+
+        aux1 = (aportePersona1 * 100) / capitalTotal;
+        System.out.println("Nombre: " + persona1 + ", Capital aportado: " + aportePersona1 + ", Porcentaje del capital: %" + aux1);
 
 
     }
+
+
+
+
+
 
 }
