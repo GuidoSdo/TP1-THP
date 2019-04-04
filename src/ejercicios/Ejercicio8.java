@@ -15,6 +15,7 @@ public class Ejercicio8 {
         double capitalTotal;
 
 
+
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Ingrese nombre del aportante");
